@@ -1,1 +1,1 @@
-# chainx electron 钱包发布
+# chainx 桌面端钱包发布
